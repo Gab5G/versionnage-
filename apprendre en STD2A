@@ -1,0 +1,19 @@
+# Les composants du problème 
+
+OBJET
+mobilier scolaire 
+materiel de dessin 
+
+ACTEURS 
+profs
+éléves 
+parents d'éléves 
+
+INFRASTRUCTURE 
+batiments 
+salle de classe 
+
+SERVICES  
+délégués 
+CVL 
+outils numerique 
